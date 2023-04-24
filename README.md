@@ -1,5 +1,5 @@
 # ideallya.github.io
-Temporary redirect from old news articles
+Temporary redirect for old news articles
 
 World news, compiled from public broadcasters across the world, and mostly anonymised to reduce bias.
 
